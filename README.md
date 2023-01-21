@@ -4,13 +4,11 @@
 [![HitCount](http://hits.dwyl.com/JoshRochotte/JoshRochotte.svg)](http://hits.dwyl.com/JoshRochotte/JoshRochotte)
  <img src="https://komarev.com/ghpvc/?username=JoshRochotte">
 
-<img align="right" alt="img" src="link" width="50%" height="auto" />
-  <img align="right" alt="GIF" src="https://github.com/JoshRochotte/JoshRochotte/blob/main/Josh.gif" />
+<img align="right" alt="GIF" src="https://github.com/JoshRochotte/JoshRochotte/blob/main/Josh.gif" width="50%" />
 
 
 ### 👋 Hi, I’m JoshRochotte
-- 🌱 I’m a PhD Student in Information Science, Product Manager, and I write professionallly in
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> 
+- 🌱 I’m a PhD Student in Information Science, Product Manager and I am Infinitely Curious.
 
 <!---
 JoshRochotte/JoshRochotte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
