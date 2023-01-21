@@ -8,7 +8,7 @@
 
 
 ### 👋 Hi, I’m JoshRochotte
-- 🌱 I’m a PhD Student in Information Science, Product Manager and I am Infinitely Curious.
+🌱 I’m a PhD Student in Information Science, Product Manager and I am Infinitely Curious.
 
 <!---
 JoshRochotte/JoshRochotte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
