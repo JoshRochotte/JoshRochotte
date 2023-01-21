@@ -6,6 +6,7 @@
  <img src="https://komarev.com/ghpvc/?username=JoshRochotte">
 
 <img align="right" alt="img" src="link" width="50%" height="auto" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 
 ### 👋 Hi, I’m @JoshRochotte
@@ -27,7 +28,6 @@ You can click the Preview link to take a look at your changes.
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=JoshRochotte&show_icons=true&hide_border=true" />
-
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
