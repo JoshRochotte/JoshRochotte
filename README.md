@@ -2,6 +2,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joshrochotte)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JoshRochotte)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joshjrochotte@gmail.com)
+[![HitCount](http://hits.dwyl.com/JoshRochotte/JoshRochotte.svg)](http://hits.dwyl.com/JoshRochotte/JoshRochotte)
+ <img src="https://komarev.com/ghpvc/?username=JoshRochotte">
 
 <img align="right" alt="img" src="link" width="50%" height="auto" />
 
@@ -17,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Researching the Impact of Mental Health and Technology
+- Furthering my skills in Computational Social Science and Machine Learning
+- Volunteering to suppport students on career journey and groups like Geek Therapeutics
 
 
 #### :computer: Programming languages and tools: 
