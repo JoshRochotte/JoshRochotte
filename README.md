@@ -6,7 +6,7 @@
  <img src="https://komarev.com/ghpvc/?username=JoshRochotte">
 
 <img align="right" alt="img" src="link" width="50%" height="auto" />
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  <img align="right" alt="GIF" src="https://github.com/JoshRochotte/JoshRochotte/blob/main/Josh.gif" />
 
 
 ### 👋 Hi, I’m @JoshRochotte
