@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://github.com/JoshRochotte/JoshRochotte/blob/main/Josh.gif" width="50%" />
 
 
-### 👋 Hi, I’m JoshRochotte
+### 👋 Hi, I’m Josh Rochotte
 🌱 I’m a PhD Student in Information Science, Product Manager and I am Infinitely Curious.
 
 <!---
