@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 #### 🌱 Things I am currently working on: 
 - Researching the Impact of Mental Health and Technology
 - Furthering my skills in Computational Social Science and Machine Learning
-- Volunteering to suppport students on career journey and groups like Geek Therapeutics
+- Volunteering to suppport students on their career journey and volunteering my time with groups like Geek Therapeutics
 
 
 #### :computer: Programming languages and tools: 
